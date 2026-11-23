@@ -50,6 +50,9 @@ CodeCoverage/
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
+*.db
+*.db-shm
+*.db-wal
 
 # NUnit
 *.VisualState.xml
